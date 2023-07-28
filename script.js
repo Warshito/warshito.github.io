@@ -5,5 +5,5 @@ const resultadoDiv = document.getElementById('resultado');
 boton.addEventListener('click', function() {
     const textUser = texto.value;
 
-    resultadoDiv.innerHTML = `Has puesto ${textUser}`
+    resultadoDiv.innerHTML = `You entered: ${textUser}`
 });
