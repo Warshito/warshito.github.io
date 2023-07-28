@@ -6,3 +6,12 @@
     border: none; /* Sin borde */
     cursor: pointer; /* Cambiar el cursor al pasar por encima */
 }
+
+#miBoton2 {
+    background-color: #a33fd6; /* Color de fondo */
+    color: rgb(0, 14, 75); /* Color del texto */
+    padding: 5px 10px; /* Espaciado interno (arriba/abajo izquierda/derecha) */
+    font-size: 24px; /* Tamaño de fuente */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cambiar el cursor al pasar por encima */
+}
